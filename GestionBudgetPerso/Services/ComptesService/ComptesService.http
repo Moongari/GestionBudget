@@ -1,0 +1,6 @@
+@ComptesService_HostAddress = http://localhost:5127
+
+GET {{ComptesService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
